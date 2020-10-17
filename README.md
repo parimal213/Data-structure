@@ -1,2 +1,2 @@
-# Data-structure
-Data structure codes in Python
+# Algorithms
+Codes of the important algorithms in Python.
